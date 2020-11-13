@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4ca301b-872e-4b95-986c-9bc06c3c77ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/Knight.java" afterDir="false" />
-    </list>
+    <list default="true" id="b4ca301b-872e-4b95-986c-9bc06c3c77ab" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +87,7 @@
       <workItem from="1604294230031" duration="3950000" />
       <workItem from="1604841555766" duration="3206000" />
       <workItem from="1605034591413" duration="2548000" />
-      <workItem from="1605263755529" duration="8732000" />
+      <workItem from="1605263755529" duration="9266000" />
     </task>
     <servers />
   </component>
